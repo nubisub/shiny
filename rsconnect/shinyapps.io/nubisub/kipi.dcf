@@ -1,0 +1,13 @@
+name: kipi
+title: kipi
+username:
+account: nubisub
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6524886
+bundleId: 6030787
+url: https://nubisub.shinyapps.io/kipi/
+when: 1655871860.18754
+lastSyncTime: 1655871860.18754
+asMultiple: FALSE
+asStatic: FALSE
